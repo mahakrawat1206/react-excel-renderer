@@ -32,7 +32,7 @@
     "react-dom": "^18.2.0"
   },
   "dependencies": {
-    "xlsx": "^0.18.5"
+    "xlsx": "git+https://github.com/mahakrawat1206/js-xlxs.git#github"
   },
   "devDependencies": {
     "@babel/core": "^7.23.9",
